@@ -1,3 +1,4 @@
+'''made by gio'''
 import numpy as np 
 
 class Quaternion:
